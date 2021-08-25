@@ -61,4 +61,6 @@ mkdir ~/.nvm
 echo 'export NVM_DIR=~/.nvm' >> ~/.zshrc
 echo 'source $(brew --prefix nvm)/nvm.sh' >> ~/.zshrc
 
-
+# install messaging
+brew install --cask telegram-desktop
+brew install --cask slack
