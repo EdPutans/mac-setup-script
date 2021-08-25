@@ -1,6 +1,8 @@
  This is a script for when I need to re-setup a new macbook for a new job. Or when the job gets new laptops.
  Or when I get a new device.
  Feel free to modify and use it.
+ Run with `bash .what-am-i-even-doing.sh`
+
 - Disables mouse acceleration
 - Executables: VSCode, Chrome, Brave browser, iTerm2
 - Generates an SSH key and copies the public one to the clipboard (to set up new SSH key in github)
