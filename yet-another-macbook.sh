@@ -45,6 +45,7 @@ code --install-extension eg2.vscode-npm-script
 code --install-extension christian-kohler.path-intellisense
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension jpoissonnier.vscode-styled-components
+code --install-extension zainchen.json
 
 # Adds a bunch of aliases I frequently use
 echo '' >> .zshrc
