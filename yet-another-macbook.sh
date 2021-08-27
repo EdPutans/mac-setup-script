@@ -44,6 +44,7 @@ code --install-extension adamcaviness.theme-monokai-dark-soda
 code --install-extension eg2.vscode-npm-script
 code --install-extension christian-kohler.path-intellisense
 code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension jpoissonnier.vscode-styled-components
 
 # Adds a bunch of aliases I frequently use
 echo '' >> .zshrc
