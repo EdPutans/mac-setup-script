@@ -4,8 +4,6 @@
 # Or when I get a new device.
 # Feel free to modify and use it.
 
-sudo echo "testing sudo here"
-
 # Disables mouse acceleration
 defaults write .GlobalPreferences com.apple.mouse.scaling -1
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
