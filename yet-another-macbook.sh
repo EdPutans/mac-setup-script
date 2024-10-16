@@ -64,3 +64,7 @@ echo 'source $(brew --prefix nvm)/nvm.sh' >> ~/.zshrc
 # install messaging
 brew install --cask telegram-desktop
 brew install --cask slack
+brew install --cask localsend
+brew install --cask alt-tab	
+brewk install --cask rocket
+brewk install --cask rectangle
